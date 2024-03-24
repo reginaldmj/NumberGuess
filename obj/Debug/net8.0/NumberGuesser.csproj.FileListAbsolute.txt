@@ -1,0 +1,15 @@
+/mnt/c/users/reggie/NumberGuesser/bin/Debug/net8.0/NumberGuesser
+/mnt/c/users/reggie/NumberGuesser/bin/Debug/net8.0/NumberGuesser.deps.json
+/mnt/c/users/reggie/NumberGuesser/bin/Debug/net8.0/NumberGuesser.runtimeconfig.json
+/mnt/c/users/reggie/NumberGuesser/bin/Debug/net8.0/NumberGuesser.dll
+/mnt/c/users/reggie/NumberGuesser/bin/Debug/net8.0/NumberGuesser.pdb
+/mnt/c/users/reggie/NumberGuesser/obj/Debug/net8.0/NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/users/reggie/NumberGuesser/obj/Debug/net8.0/NumberGuesser.AssemblyInfoInputs.cache
+/mnt/c/users/reggie/NumberGuesser/obj/Debug/net8.0/NumberGuesser.AssemblyInfo.cs
+/mnt/c/users/reggie/NumberGuesser/obj/Debug/net8.0/NumberGuesser.csproj.CoreCompileInputs.cache
+/mnt/c/users/reggie/NumberGuesser/obj/Debug/net8.0/NumberGuesser.sourcelink.json
+/mnt/c/users/reggie/NumberGuesser/obj/Debug/net8.0/NumberGuesser.dll
+/mnt/c/users/reggie/NumberGuesser/obj/Debug/net8.0/refint/NumberGuesser.dll
+/mnt/c/users/reggie/NumberGuesser/obj/Debug/net8.0/NumberGuesser.pdb
+/mnt/c/users/reggie/NumberGuesser/obj/Debug/net8.0/NumberGuesser.genruntimeconfig.cache
+/mnt/c/users/reggie/NumberGuesser/obj/Debug/net8.0/ref/NumberGuesser.dll
